@@ -1,0 +1,19 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "template",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yunseok"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies":{
+    "ejs":"*",
+    "express":"*"
+  }
+}
